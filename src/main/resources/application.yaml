@@ -1,0 +1,13 @@
+spring:
+  datasource:
+    password: CruiseTrips
+    username: CruiseTrips
+    url:  jdbc:mysql://localhost:3306/cruise_trips
+  flyway:
+   baselineOnMigrate: true
+
+logging:
+  level:
+    root: warn
+    '[com.cruisetrips]': debug
+

@@ -11,4 +11,4 @@ This API is also something a traveler can use to choose their perfect travel pla
 Each port has its own options of activities that cruise goers can choose among to get the most out of their vacation whether that be 
 challenging adventures, immersive experiences, hours of relaxation, or a mix of everything.  
 
-See uploaded Project Overview file!
+Open the "Project Overview File" to view the RELATIONAL DIAGRAM!

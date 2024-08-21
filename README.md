@@ -2,13 +2,5 @@
 
 Description:  
 
-This Web API allows a cruise line travel company to keep track of information about the specific ships in operation.  
-Each cruise ship has its own attributes, such as name, size and overall guest rating.  
-A particular ship may have more than one route it takes at different times of the year.  
-These routes are called itineraries and each unique itinerary has a specific trip length and number of ports that are visited.  
-
-This API is also something a traveler can use to choose their perfect travel plans based on the ship features, trip length, and ports visited.  
-Each port has its own options of activities that cruise goers can choose among to get the most out of their vacation whether that be 
-challenging adventures, immersive experiences, hours of relaxation, or a mix of everything.  
-
-Open the "Project Overview File" to view the RELATIONAL DIAGRAM!
+This Web API allows a traveler can use to choose their perfect cruise trip based on the ship features, trip length, and ports visited.  In addition, each port has its own options for on land activities.  Cruisers can get the most out of their vacation, whether that be a challenging adventure, an immersive experience, an afternoon of pure relaxation, or a mix of it all! 
+<img width="1147" alt="Click Event Collection ERD Draft #3" src="https://github.com/rgulbrandson27/The-Click-Event-Collection/assets/105253984/0efdbb51-f03d-46cd-9a16-82160b8471b2">
